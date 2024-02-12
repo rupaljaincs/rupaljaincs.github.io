@@ -42,7 +42,9 @@ I have to agree that current LLMs don’t live up to the hype, and I am yet to b
 
 Well, everybody, ranging from government bodies and policy-makers, private corporations and AI developers, to individual users and civil society organizations.
 
+
 ## AI Governance Know-How
+
 
 Every standard book on Artificial Intelligence defines it as machine intelligence as opposed to human intelligence. In contrast, I believe AI machines reflect and imitate human intelligence more than we’d like. The good and the bad parts, both. There has been a lack of science in the criminal legal system across the world.  We have risk prediction algorithms in place in criminal investigations to determine a ‘score’ for an offender to predict probability of a repeat offense and the danger factor of that individual. These algorithms have been founded to be biased against minorities as well as lower income groups. Face image detection algorithms have been found to be discriminatory against non-caucasian racial groups such as those from Islamic faiths, Sikh, african, south asian, latin descents. In the criminal legal space, we must have an ethical obligation to build recognition algorithms, DNA evidence matching technology, identification algorithms, risk assessments instruments that are fair and inclusive and representative of the whole spectrum of the human race. 
 
@@ -53,7 +55,9 @@ India’s religious AI chatbots are speaking in the voice of god — and condoni
 
 Thus, naturally, we need laws and policymakers in-place to govern this machine-form of humans; a technical guardrail. AI governance is a socio-technical system - it's a nuanced interface where technology and society meet, intertwine, and co-evolve. It naturally brings its own set of ethical dilemmas and complexities, and a whole range of issues such as accountability, transparency, legalities.
 
+
 ## Dividing AI Governance into broad categories:
+
 
 If you consider “AI Governance” as your root problem statement, I see 2 child nodes: 
 - **Preemptive/Proactive Governance**: predict the cases in-advance and train your machine accordingly, streamline supply chains to put blockers in the making of at least trivially harmful systems - largely comes under the purview of policymakers, technologists and the orchestrators of such machines
@@ -69,6 +73,7 @@ We need to understand AI Governance as one would understand the abolitionist arg
 
 Thus, knowing what to fix is the first step.
 
+
 ## Accident, Misuse, Structural Risks
 
 Years ago, I attended a talk on AI Governance and x-risk by Haydn Belfield, a Research Assistant at University of Cambridge’s CSER (Center for the Study of Existential Risk.)  More than being just a general purpose technology, AI could also be transformative in a sense that it can change the course of our civilization in more dramatic ways than one. Much like the Industrial and Commercial revolution, AI can potentially save humanity from extinction or re-engineer large-scale demographics.  AlphaFold for biotechnology is only one such example. Now that we have realized that AI could be a big deal, governing how AI incorporates in our society is also a big deal.
@@ -77,6 +82,7 @@ Years ago, I attended a talk on AI Governance and x-risk by Haydn Belfield, a Re
 | :----------------: | :------: | :----: |  :----: |
 | Short-term        |   [Concrete Problems in AI](https://arxiv.org/abs/1606.06565)   | Malicious use of AI |  Flash crash → Flash War (such as those in stock market, military defense systems) |
 | Long-term           |   AI goals aligned with humans   | Superintelligence |  Race for hegemony |
+
 
 ## Challenges with Governance of Self-improving AI
 
